@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+users.json
+.env
+.streamlit/secrets.toml
+creditcard.csv
+!sample_transactions.csv
